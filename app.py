@@ -7,9 +7,10 @@ from PIL import Image
 import torch
 from dotenv import load_dotenv
 import os
+import platform
 
 load_dotenv()
-
+print(platform.platform())
 # setup file uploader
 file = st.file_uploader
 

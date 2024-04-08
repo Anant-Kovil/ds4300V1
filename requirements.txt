@@ -2,3 +2,4 @@ streamlit
 pinecone-cli 
 transformers 
 torch
+platform
