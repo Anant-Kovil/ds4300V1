@@ -2,3 +2,4 @@ streamlit
 pinecone-cli 
 transformers 
 torch
+https://download.pytorch.org/whl/nightly/cpu/torch-2.2.0.dev20231010-cp310-none-macosx_11_0_arm64.whl
